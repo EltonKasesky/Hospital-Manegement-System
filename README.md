@@ -24,7 +24,7 @@ Esta é uma aplicação simples desenvolvida em Java para gerenciar um hospital,
 1. Certifique-se de ter o Java instalado na sua máquina.
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/EltonKasesky/Hospital-Manegement.git
+   git clone https://github.com/EltonKasesky/Hospital-Manegement-System
    ```
 3. Compile os arquivos Java:
    ```sh
@@ -48,6 +48,6 @@ Esta é uma aplicação simples desenvolvida em Java para gerenciar um hospital,
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias no código.
 
-![image](https://github.com/user-attachments/assets/a92eec70-bcaf-424d-b931-b68c63200844)
+![image](Image/program.png)
 
 
